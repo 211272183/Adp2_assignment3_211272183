@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author Ongezwa Gwaza 21127218
+ * @author Ongezwa Gwaza 211272183
  */
 public class Stakeholder implements Serializable{
     private String stHolderId;

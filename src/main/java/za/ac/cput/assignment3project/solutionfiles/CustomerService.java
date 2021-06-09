@@ -19,7 +19,7 @@ import za.ac.cput.assignment3project.Customer;
 
 /**
  *
- * @author Ongezwa Gwaza 21127218
+ * @author Ongezwa Gwaza 211272183
  */
 public class CustomerService {
     

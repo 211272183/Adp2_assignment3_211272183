@@ -7,7 +7,7 @@ package za.ac.cput.assignment3project;
 
 /**
  *
- * @author Ongezwa Gwaza 21127218
+ * @author Ongezwa Gwaza 211272183
  */
 public class Supplier extends Stakeholder{
     private String name;
